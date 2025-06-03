@@ -74,6 +74,7 @@
       };
     };
     lazygit.enable = true;
+    vimwiki.enable = true;
   };
   keymaps = [
     # Open lazygit within nvim. 
