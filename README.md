@@ -1,3 +1,9 @@
+# Raven's note
+We only desired the Neovim configuration so we forked this repo for the purpose of creating
+a Neovim alias in [Raven](https://github.com/digital-raven/raven). If the authors of this
+package happen to see this fork and think this is overkill and/or stupid. Please reach out; we
+got skill-issued trying to port in the Neovim.
+
 [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://nixos.zulipchat.com/#narrow/stream/413950-nix)
 
 # nixos-unified-template
